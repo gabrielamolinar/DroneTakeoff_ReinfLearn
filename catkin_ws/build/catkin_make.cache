@@ -1,0 +1,2 @@
+RL-Quadcopter/quad_controller_rl
+-DCATKIN_DEVEL_PREFIX=/mnt/hgfs/UdacityFiles_trial1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/mnt/hgfs/UdacityFiles_trial1/catkin_ws/install -G Unix Makefiles

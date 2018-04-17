@@ -1,0 +1,20 @@
+# Some files, when opened in Windows, won't open in Ubuntu. For that:
+sudo apt install dos2unix
+dos2unix /PATH/TO/YOUR/WINDOWS_FILE
+
+extra_info: unix2dos /PATH/TO/YOUR/LINUX_FILE
+
+# To install a python package
+(sudo) python -m pip install SomePackage
+
+# To upgrade a python package
+(sudo) python -m pip install --upgrade SomePackage
+
+# Asking for the version of a package
+python
+import package
+print packege.__version__
+
+
+# Ubuntu for running ROS Simulation (Udacity)
+# Don't accept the updates ubuntu will ask you for!

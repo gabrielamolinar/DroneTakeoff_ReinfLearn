@@ -1,0 +1,8 @@
+prefix=/mnt/hgfs/UdacityFiles_trial1/catkin_ws/install
+
+Name: quad_controller_rl
+Description: Description of quad_controller_rl
+Version: 0.0.0
+Cflags: -I/mnt/hgfs/UdacityFiles_trial1/catkin_ws/install/include
+Libs: -L/mnt/hgfs/UdacityFiles_trial1/catkin_ws/install/lib 
+Requires: message_runtime std_msgs geometry_msgs std_srvs
